@@ -35,4 +35,6 @@ https://www.youtube.com/watch?v=cKrnYXDZokE
 ![Screen_20240410_215136](https://github.com/avipars/Controllr/assets/5733247/9c540362-987f-4719-9102-a87364077110)
 
 
+Consider looking at my other apps on [google play](https://play.google.com/store/apps/dev?id=7646777248290288031)
+
 ### Icons & Images related to this application - All Rights Resserved: Avi Parshan &copy; 2024
